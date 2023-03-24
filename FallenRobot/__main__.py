@@ -81,11 +81,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-๏ 𝐇𝐈 𝐌𝐑./𝐌𝐈𝐒𝐒 {} 😅 
-
-            🌹𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐇𝐞𝐫𝐞🌹
-
-♧ 𝗠𝗬𝗦𝗘𝗟𝗙 {} 😃
+๏ 𝙷𝙸 𝙹𝙸 {} 😁
+♧ 𝙼𝚈𝚂𝙴𝙻𝙵 {} 😃
 
 ➻ 𝚃𝙷𝙴 𝙼𝙾𝚂𝚃 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃 𝙱𝙾𝚃 𝚆𝙸𝚃𝙷 𝚂𝙾𝙼𝙴 𝙰𝚆𝙴𝚂𝙾𝙼𝙴 & 𝚄𝚂𝙴𝙵𝚄𝙻 𝙲𝙾𝙾𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂.
 
@@ -95,10 +92,10 @@ PM_START_TEXT = """
 ๏𝙽𝙾 𝙿𝚁𝙾𝙼𝙾 & 𝙰𝙳𝚂
 ๏𝙰𝙳𝚅𝙰𝙽𝙲𝙴 & 𝚄𝚂𝙴𝙵𝚄𝙻 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
 ๏𝙼𝚄𝚂𝙸𝙲 𝙿𝙻𝙰𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
-๏𝚅𝙸𝚂𝙸𝚃 @TG\_FRIENDSS 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴...
+๏𝚅𝙸𝚂𝙸𝚃 @SHONA_AI 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴...
 ๏───────────────────────๏
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 🐰@Shona_AI⛦⃕͜🇮🇳𓊉
 
 
 """
@@ -106,23 +103,22 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="★ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ★ ",
-            url=f"https://t.me/TG_STAR_ROBOT?startgroup=true",
+            text="★ 𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙱𝚈 ★ ",
+            url=f"https://Shona_iz_bot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/Tg_Friendss"),
-        InlineKeyboardButton(text="⚙️𝐇𝐄𝐋𝐏⚙️", callback_data="help_back"),
+        InlineKeyboardButton(text="🍁𝙶𝚁𝙾𝚄𝙿🍁", url=f"https://t.me/SHONA_AI"),
+        InlineKeyboardButton(text="⚙️𝙷𝙴𝙻𝙿⚙️", callback_data="help_back"),
     ],
     [
         
-        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="🌷𝙾𝚆𝙽𝙴𝚁🌷", url=f"https://t.me/HYPER_X_RACHIT"),
     ],
     [
         InlineKeyboardButton(
-            text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱",
-            url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+            text="🌱𝚂𝙾𝚄𝚁𝙲𝙴🌱",
+            url=f"https://t.me/hyper_x_rachit",
         ),
     ],
 ]
@@ -140,15 +136,14 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-╔═════❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱════❍⊱❁۪۪
+╔═════❰𝚆𝙴𝙻𝙲𝙾𝙼𝙴❱════❍⊱❁
 ║
 ║┏━━━━━━➣
-║┣⪼ 𝙾𝚆𝙽𝙴𝚁 ➪ @THE\_VIP\_BOY
-║┣⪼ 𝙶𝚁𝙾𝚄𝙿 ➪ @TG\_FRIENDSS
-║┣⪼ 𝙾𝙵𝙵𝙸𝙲𝙴 ➪ @VIP\_CREATORS
+║┣⪼ 𝙾𝚆𝙽𝙴𝚁 ➪ @hyper_x_rachit
+║┣⪼ 𝙶𝚁𝙾𝚄𝙿 ➪ @shona_AI
 ║┗━━━━━━➣
 ║
-╚═════════════════❍⊱❁۪۪
+╚═════════════════❍⊱❁۪۪۪۪۪۪
 """
 	          
 
@@ -453,7 +448,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                            callback_data="https://t.me/hyper_x_rachit",
                         ),
                     ],
                     [
