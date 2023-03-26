@@ -1,10 +1,10 @@
 class Config(object):
     LOGGER = True
 
-    API_ID = 
+    API_ID = ""
     API_HASH = ""
     TOKEN = ""
-    OWNER_ID = 
+    OWNER_ID = ""
     OWNER_USERNAME = ""
     SUPPORT_CHAT = ""
     JOIN_LOGGER = ()
